@@ -1,0 +1,12 @@
+{
+  "description": "Main Page",
+  "repo": "github.com/minhvmware/minhvm-about",
+  "owner": {
+    "username": "MinhVM",
+    "email": "mnhat8125@gmail.com",
+    "discord": "minhmcytbvn1223"
+  },
+  "record": {
+    "CNAME": "minhvmware.github.io/minhvm-about/"
+  }
+} 
